@@ -7,5 +7,5 @@ Credits to https://github.com/ros/urdf_tutorial
 To load the launch file just use the expression below:
 
 ```roslaunch ros1 display.launch model:=urdf/simple.urdf```
-#1st :
+# 1st :
 26/11/2022
